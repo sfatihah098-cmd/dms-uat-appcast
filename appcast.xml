@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>DMS Mobile (UAT)</title>
+        <title>DMS Mobile App</title>
 
         <item>
             <title>Version 1.1.0</title>
-            <description>
-                &lt;ul&gt;
-                    &lt;li&gt;Version list popup on update available (from appcast)&lt;/li&gt;
-                    &lt;li&gt;Minor bug fixes and improvements (from appcast)&lt;/li&gt;
-                &lt;/ul&gt;
-            </description>
+            <description>• Version list popup on update available
+• Minor bug fixes and improvements (FROM APPCAST) </description>
             <pubDate>Sun, 22 Jun 2025 08:00:00 +0800</pubDate>
             <enclosure
                 url="https://raw.githubusercontent.com/sfatihah098-cmd/dms-uat-appcast/refs/heads/main/dms-uat-1.1.0.apk"
@@ -20,3 +16,4 @@
 
     </channel>
 </rss>
+
