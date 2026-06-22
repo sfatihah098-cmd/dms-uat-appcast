@@ -5,8 +5,8 @@
 
         <item>
             <title>Version 1.1.0</title>
-            <description>• Version list popup on update available
-• Minor bug fixes and improvements (FROM APPCAST) </description>
+            <description> (THIS IS FROM APPCAST) • Version list popup on update available
+• Minor bug fixes and improvements </description>
             <pubDate>Sun, 22 Jun 2025 08:00:00 +0800</pubDate>
             <enclosure
                 url="https://raw.githubusercontent.com/sfatihah098-cmd/dms-uat-appcast/refs/heads/main/dms-uat-1.1.0.apk"
