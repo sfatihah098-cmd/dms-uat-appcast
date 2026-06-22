@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>DMS UAT App</title>
-    <item>
-      <enclosure 
-        url="https://play.google.com/store/apps/details?id=com.hartalega.dms_mobile_app.uat"
-        sparkle:version="0.2.0"
-        sparkle:os="android"
-        type="application/octet-stream"
-        length="0"
-      />
-    </item>
-  </channel>
+    <channel>
+        <title>DMS Mobile (UAT)</title>
+
+        <item>
+            <title>Version 1.1.0</title>
+            <description>
+                &lt;ul&gt;
+                    &lt;li&gt;Version list popup on update available (from appcast)&lt;/li&gt;
+                    &lt;li&gt;Minor bug fixes and improvements (from appcast)&lt;/li&gt;
+                &lt;/ul&gt;
+            </description>
+            <pubDate>Sun, 22 Jun 2025 08:00:00 +0800</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/sfatihah098-cmd/dms-uat-appcast/refs/heads/main/dms-uat-1.1.0.apk"
+                sparkle:version="1.1.0"
+                sparkle:os="android" />
+        </item>
+
+    </channel>
 </rss>
