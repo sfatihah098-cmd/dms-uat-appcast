@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DMS App</title>
+    <item>
+      <title>Version 2.0.0</title>
+      <enclosure 
+        url="https://play.google.com/store/apps/details?id=com.hartalega.dms_mobile_app.uat"
+        sparkle:version="2.0.0"
+        sparkle:os="android"
+      />
+    </item>
+  </channel>
+</rss>
